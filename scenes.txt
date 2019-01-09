@@ -1,0 +1,670 @@
+scenesfile version 1
+ 167
+scn_random_scene random_scene 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ 0 
+scn_conversation_scene conversation_scene 0 none none -40.000000 -40.000000 40.000000 40.000000 -100.000000 0 
+  0 
+  0 
+ 0 
+scn_water water 0 none none -1000.000000 -1000.000000 1000.000000 1000.000000 -0.500000 0 
+  0 
+  0 
+ 0 
+scn_random_scene_steppe random_scene_steppe 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_scene_plain random_scene_plain 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_snow random_scene_snow 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_scene_desert random_scene_desert 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x0000000229602800000691a400003efe00004b34000059be 
+  0 
+  0 
+ outer_terrain_desert_b 
+scn_random_scene_steppe_forest random_scene_steppe_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_plain_forest random_scene_plain_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_scene_snow_forest random_scene_snow_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_scene_desert_forest random_scene_desert_forest 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_desert 
+scn_camp_scene camp_scene 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_camp_scene_horse_track camp_scene_horse_track 1280 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x300028000003e8fa0000034e00004b34000059be 
+  0 
+  0 
+ outer_terrain_plain 
+scn_four_ways_inn four_ways_inn 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000030015f2b000350d4000011a4000017ee000054af 
+  0 
+  0 
+ outer_terrain_plain 
+scn_test_scene test_scene 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0230817a00028ca300007f4a0000479400161992 
+  0 
+  0 
+ outer_terrain_plain 
+scn_tutorial tutorial 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_arabian_harbour mp_arabian_harbour 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003000050000081e0700002d88000048a800000664 
+  0 
+  0 
+ outer_terrain_snow 
+scn_mp_arabian_harbour_night mp_arabian_harbour_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003000050000081e0700002d88000048a800000664 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_arabian_village mp_arabian_village 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_arabian_village_conq mp_arabian_village_conq 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_arabian_village_conq_morning mp_arabian_village_conq_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_ardennes mp_ardennes 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000500000761db000031780000574900007e38 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_ardennes_morning mp_ardennes_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000500000761db000031780000574900007e38 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_avignon mp_avignon 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003000015000091a430000173800000bea00003014 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_avignon_morning mp_avignon_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000003000015000091a430000173800000bea00003014 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_bavarian_river mp_bavarian_river 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300005000008621800007b270000060500000d0b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_beach_morning mp_beach_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000005f57b00004e92000050d600000ff9 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_beach_evening mp_beach_evening 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300005000005f57b00004e92000050d600000ff9 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_borodino mp_borodino 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000200000c5d8f000018a200006bce00007749 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_borodino_morn mp_borodino_morn 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000200000c5d8f000018a200006bce00007749 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_champs_elysees mp_champs_elysees 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000150000a2a86000078ad0000637100007ef2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_champs_elysees_rain mp_champs_elysees_rain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000150000a2a86000078ad0000637100007ef2 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_columbia_hill_farm mp_columbia_hill_farm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000100000d2348000042e7000064e9000066ea 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_columbia_farm_morning mp_columbia_farm_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000100000d2348000042e7000064e9000066ea 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_countryside mp_countryside 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_dust mp_dust 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300002000008b63400000f240000614b000020e6 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_dust_night mp_dust_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300002000008b63400000f240000614b000020e6 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_european_city_summer mp_european_city_summer 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000013000030000086a1a0000205a000078b900002d1b  
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_european_city_winter mp_european_city_winter 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000013000030000086a1a0000205a000078b900002d1b  
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_floodplain_storm mp_floodplain_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_beaver mp_fort_beaver 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300002000005ed7f00002b9f0000242e00007627 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_beaver_morning mp_fort_beaver_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300002000005ed7f00002b9f0000242e00007627 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_boyd mp_fort_boyd 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_boyd_raining mp_fort_boyd_raining 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_mackinaw mp_fort_mackinaw 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000013000000080064190000041ef00005ae800003c55 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_fort_fleetwood mp_fort_fleetwood 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_fort_fleetwood_storm mp_fort_fleetwood_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_fort_hohenfels mp_fort_hohenfels 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_lyon mp_fort_lyon 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_lyon_night mp_fort_lyon_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_refleax mp_fort_refleax 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_refleax_night mp_fort_refleax_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_vincey mp_fort_vincey 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_fort_vincey_storm mp_fort_vincey_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_french_farm mp_french_farm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_french_farm_storm mp_french_farm_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_german_village mp_german_village 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_german_village_rain mp_german_village_rain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_hougoumont mp_hougoumont 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_hougoumont_night mp_hougoumont_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_hungarian_plains mp_hungarian_plains 4352 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_hungarian_plains_cloud mp_hungarian_plains_cloud 4352 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_theisland mp_theisland 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000000300002000005ed7b00003e3f00000e50000046cf 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_la_haye_sainte mp_la_haye_sainte 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_la_haye_sainte_night mp_la_haye_sainte_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_landshut mp_landshut 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_landshut_night mp_landshut_night 256 none none 0.000000 0.000000 200.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_minden mp_minden 4352 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_minden_night mp_minden_night 4352 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_oaksfield_day mp_oaksfield_day 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_oaksfield_storm mp_oaksfield_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_outlaws_den mp_outlaws_den 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_quatre_bras mp_quatre_bras 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_quatre_bras_night mp_quatre_bras_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_river_crossing mp_river_crossing 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_river_crossing_morning mp_river_crossing_morning 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_roxburgh mp_roxburgh 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_roxburgh_raining mp_roxburgh_raining 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_russian_river_cloudy mp_russian_river_cloudy 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_russian_village mp_russian_village 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_snow 
+scn_mp_russian_village_conq mp_russian_village_conq 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_snow 
+scn_mp_russian_village_conq_night mp_russian_village_conq_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_snow 
+scn_mp_schemmerbach mp_schemmerbach 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_schemmerbach_storm mp_schemmerbach_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_slovenian_village mp_slovenian_village 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_slovenian_village_raining mp_slovenian_village_raining 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_spanish_farm mp_spanish_farm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000500000384e10000523400007cf5000028f8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_spanish_farm_rain mp_spanish_farm_rain 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030000500000384e10000523400007cf5000028f8 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_spanish_mountain_pass mp_spanish_mountain_pass 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_spanish_mountain_pass_evening mp_spanish_mountain_pass_evening 256 none none 0.000000 0.000000 200.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_spanish_village mp_spanish_village 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000043000050000050140000045d900004aa900002a31 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_spanish_village_evening mp_spanish_village_evening 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000043000050000050140000045d900004aa900002a31 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_mp_strangefields mp_strangefields 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_strangefields_storm mp_strangefields_storm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_swamp mp_swamp 4352 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_snow 
+scn_mp_venice mp_venice 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_beach 
+scn_mp_walloon_farm mp_walloon_farm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_walloon_farm_night mp_walloon_farm_night 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_testing_map mp_testing_map 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_medium random_multi_plain_medium 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001394018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_large random_multi_plain_large 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000013a001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_medium_rain random_multi_plain_medium_rain 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001394018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_plain_large_rain random_multi_plain_large_rain 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000013a001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_steppe_medium random_multi_steppe_medium 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x0000000128601ae300063d8f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_multi_steppe_large random_multi_steppe_large 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x000000012a00d8630009fe7f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_multi_steppe_forest_medium random_multi_steppe_forest_medium 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x00000001a8601ae300063d8f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_multi_steppe_forest_large random_multi_steppe_forest_large 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x00000001aa00d8630009fe7f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_random_multi_snow_medium random_multi_snow_medium 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001494018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_medium_snow random_multi_snow_medium_snow 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001494018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_large random_multi_snow_large 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000014a001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_large_snow random_multi_snow_large_snow 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x000000014a001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_forest_medium random_multi_snow_forest_medium 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001c94018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_forest_medium_snow random_multi_snow_forest_medium_snow 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001c94018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_forest_large random_multi_snow_forest_large 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001ca001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_snow_forest_large_snow random_multi_snow_forest_large_snow 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001ca001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_snow 
+scn_random_multi_desert_medium random_multi_desert_medium 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x0000000158601ae300063d8f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_desert 
+scn_random_multi_desert_large random_multi_desert_large 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x000000015a00d8630009fe7f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_desert 
+scn_random_multi_desert_forest_medium random_multi_desert_forest_medium 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x00000001d8601ae300063d8f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_desert 
+scn_random_multi_desert_forest_large random_multi_desert_forest_large 1792 none none 0.000000 0.000000 100.000000 100.000000 -0.500000 0x00000001da00d8630009fe7f0004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_desert 
+scn_random_multi_forest_medium random_multi_forest_medium 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001b94018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_forest_medium_rain random_multi_forest_medium_rain 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001b94018dd000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_forest_large random_multi_forest_large 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001ba001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_plain 
+scn_random_multi_forest_large_rain random_multi_forest_large_rain 1792 none none 0.000000 0.000000 240.000000 240.000000 -0.500000 0x00000001ba001853000aa6a40004406900002920001e4f81 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_1 mp_custom_map_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_2 mp_custom_map_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_3 mp_custom_map_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_4 mp_custom_map_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_5 mp_custom_map_5 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_6 mp_custom_map_6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_7 mp_custom_map_7 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_8 mp_custom_map_8 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_9 mp_custom_map_9 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_10 mp_custom_map_10 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_11 mp_custom_map_11 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_12 mp_custom_map_12 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_13 mp_custom_map_13 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_14 mp_custom_map_14 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_15 mp_custom_map_15 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_16 mp_custom_map_16 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_17 mp_custom_map_17 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_18 mp_custom_map_18 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_19 mp_custom_map_19 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_mp_custom_map_20 mp_custom_map_20 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_multiplayer_maps_end multiplayer_maps_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001300389800003a4ea000058340000637a0000399b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_french_farm quick_battle_french_farm 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_landshut quick_battle_landshut 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e00078584000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_river_crossing quick_battle_river_crossing 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_spanish_village quick_battle_spanish_village 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000012002a0b20004992700006e54000007fe00001fd2 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_quick_battle_strangefields quick_battle_strangefields 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000130010e0e0005fd84000011c60000285b00005cbe 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_1 quick_battle_scene_1 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000013c665098000769d80000534600001adc00001118 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_2 quick_battle_scene_2 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x000000014940095d000649920004406900002920000056d7 
+  0 
+  0 
+ outer_terrain_snow 
+scn_quick_battle_scene_3 quick_battle_scene_3 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x00000001bc6fd0ae000611870000202600001adc0000240e 
+  0 
+  0 
+ outer_terrain_plain 
+scn_quick_battle_scene_4 quick_battle_scene_4 256 none none 0.000000 0.000000 120.000000 120.000000 -100.000000 0x0000000122f00b52000611870000175c00007b5c00003013 
+  0 
+  0 
+ outer_terrain_steppe 
+scn_quick_battle_scene_6 quick_battle_scene_6 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001db034fc50006118500001d4900007f70000073fc 
+  0 
+  0 
+ outer_terrain_desert_b 
+scn_quick_battle_maps_end quick_battle_maps_end 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x00000001db034fc50006118500001d4900007f70000073fc 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_vienna sp_vienna 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_sokolniz sp_sokolniz 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_auster sp_auster 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000030024ee3400d2348591ef0ff00001bb1647fd81f 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_sokolniz2 sp_sokolniz2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_dresden1 sp_dresden1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_dresden2 sp_dresden2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_scene_1 sp_scene_1 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_scene_2 sp_scene_2 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_scene_3 sp_scene_3 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_scene_4 sp_scene_4 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x0000000330004563000d23480000074800005c49000021c5 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_camp_austerlitz sp_camp_austerlitz 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
+scn_sp_camp_dresden sp_camp_dresden 256 none none 0.000000 0.000000 100.000000 100.000000 -100.000000 0x000000023002a1ba0004210900003ca000006a8900007a7b 
+  0 
+  0 
+ outer_terrain_plain 
